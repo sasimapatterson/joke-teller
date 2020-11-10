@@ -15,7 +15,7 @@ function toggleButton() {
 function tellMe(joke) {
     
     VoiceRSS.speech({
-        key: '61fe7163416e4b069faa54803c4c31b1',
+        key: 'API key',
         src: joke,
         hl: 'en-us',
         r: 0, 
